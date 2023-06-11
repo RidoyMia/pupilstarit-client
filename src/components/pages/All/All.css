@@ -1,0 +1,35 @@
+.first-parrent {
+  display: flex;
+}
+.first-container {
+  width: 50%;
+  padding: 20px;
+}
+.last-container {
+  padding: 20px;
+}
+.divider-parrent {
+  display: flex;
+}
+.d-first {
+  width: 30%;
+}
+.d-second {
+  width: 70%;
+}
+
+.print-top-header-section {
+  display: flex;
+  padding: 20px;
+}
+.print-first-header {
+  width: 45%;
+}
+.print-second-header {
+  width: 55%;
+}
+.addmission-logo {
+  height: 120px;
+}
+.addmission-section {
+}

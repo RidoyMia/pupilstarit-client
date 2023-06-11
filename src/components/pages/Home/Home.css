@@ -1,0 +1,48 @@
+.home-container {
+  background-color: bisque;
+  padding: 50px;
+}
+
+/* register page  */
+
+.divider {
+  height: 2px;
+  width: 40%;
+  background-color: red;
+}
+.or {
+  padding: 0px 10px;
+  font-size: large;
+  margin-top: 10px;
+}
+/* register page  */
+
+.add-container {
+  border: 1px solid gray;
+  box-shadow: 1px gray;
+  background-color: rgb(151, 159, 157);
+  padding: 100px 100px !important;
+}
+.addBtn {
+  background: linear-gradient(to right, #8e0e00, #ff0013);
+  border: none;
+  color: white;
+  padding: 7px 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.addBtn:hover {
+  background: white;
+  color: black;
+}
+.input {
+  background-color: aqua;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+.addmission {
+  width: 100%;
+  margin: 50px auto;
+}

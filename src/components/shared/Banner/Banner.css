@@ -1,0 +1,29 @@
+.border-container{
+    border-radius: 5px;
+   
+}
+/* .banner-text-container h1{
+    font-size: 55px;
+} */
+.title-color{
+    color: #ff0013;
+    font-weight: bold;
+}
+.banner-btn{
+    background:linear-gradient(to right,#8e0e00,#ff0013);
+    padding: 7px 20px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+.banner-btn:hover{
+    background: white;
+    color: black;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.traning-pic{
+    margin-left: -20px;
+    margin-top: -10px;
+}

@@ -1,0 +1,17 @@
+
+.topheader-container{
+    background: linear-gradient(to right,#8e0e00,#ff0013);
+}
+.icon{
+    font-size: 23px;
+   
+     color: white;
+}
+.icon2{
+    font-size: 25px;
+    color: white;
+}
+.text-container{
+    font-size: 18px;
+    color: white;
+}

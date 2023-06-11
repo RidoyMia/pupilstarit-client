@@ -1,0 +1,229 @@
+[
+    
+    {
+        "subTitle": "Master the art of Full Stack Web Development",
+        "Title": "Full Stack Web Development",
+        "Price" : 12000,
+        "banner" : "https://i.postimg.cc/g02B3b1r/web-design-web.png",
+        "CourseDuration": "6 months",
+        "Lecture": 120,
+        "Project": 40,
+        "description": "In the rapidly evolving world of technology, Full Stack Web Development is a highly valuable skillset. Our comprehensive Full Stack Web Development course will provide you with the knowledge and expertise to build robust web applications. Join our experienced instructors and learn front-end and back-end development, database management, and deployment strategies.",
+        "CourseOverview": "The Full Stack Web Development course covers a wide range of topics, including front-end development using HTML, CSS, and JavaScript, back-end development with popular frameworks and languages, database design and management, and the deployment of web applications. By the end of the course, you will be equipped to develop end-to-end web applications with a deep understanding of both client-side and server-side technologies.",
+        "CourseCurriculum": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "SQL",
+            "RESTful APIs",
+            "Deployment"
+        ],
+        "Software": [
+            {
+               
+                "name": "Visual Studio Code"
+            },
+            {
+              
+                "name": "Sublime Text"
+            },
+            {
+              
+                "name": "MongoDB Compass"
+            }
+        ]
+    },
+    {
+        "subTitle": "Master the art of Digital Marketing",
+        "Price" : 8000,
+        "Title": "Digital Marketing",
+        "CourseDuration": "4 months",
+        "banner":"https://i.postimg.cc/qqJtvQNf/digital-marketing-web.png",
+        "Lecture": 40,
+        "Project": 10,
+        "description": "In today's digital landscape, digital marketing skills are essential for businesses to thrive. Our Digital Marketing course will provide you with a comprehensive understanding of various digital marketing strategies and techniques. Join our industry experts and learn how to create effective marketing campaigns, analyze data, optimize websites for search engines, and harness the power of social media for business growth.",
+        "CourseOverview": "The Digital Marketing course covers a broad range of topics, including search engine optimization (SEO), pay-per-click (PPC) advertising, social media marketing, email marketing, content marketing, and web analytics. By the end of the course, you will have the skills to develop and execute digital marketing campaigns across multiple platforms, effectively reach target audiences, and measure the success of your marketing efforts.",
+        "CourseCurriculum": [
+            "Introduction to Digital Marketing",
+            "Search Engine Optimization (SEO)",
+            "Pay-Per-Click (PPC) Advertising",
+            "Social Media Marketing",
+            "Email Marketing",
+            "Content Marketing",
+            "Web Analytics",
+            "Digital Marketing Strategy"
+        ],
+        "Software": [
+            {
+                "name": "Google Analytics"
+            },
+            {
+                
+                "name": "Google Ads"
+            },
+            {
+                
+                "name": "Hootsuite"
+            },
+            {
+               
+                "name": "MailChimp"
+            }
+        ]
+    },
+    {
+        "subTitle": "Master the art of Graphics Design",
+        "Title": "Graphics Design",
+        "Price" : 8000,
+        "banner": "https://i.postimg.cc/rFYdq1cb/graphic-web.png",
+        "CourseDuration": "3 months",
+        "Lecture": 60,
+        "Project": 15,
+        "description": "Graphics Design is a crucial skill in today's visual-driven world. Our Graphics Design course will equip you with the knowledge and techniques to create visually appealing designs for various mediums. Join our experienced instructors and learn about color theory, typography, layout design, image editing, and industry-standard software tools to bring your creative vision to life.",
+        "CourseOverview": "The Graphics Design course covers a wide range of topics, including the fundamentals of design principles, typography, color theory, composition, branding, and image editing techniques. You will also gain hands-on experience using industry-standard software tools like Adobe Photoshop, Illustrator, and InDesign. By the end of the course, you will be able to create professional-quality designs for print, web, and multimedia platforms.",
+        "CourseCurriculum": [
+            "Introduction to Graphics Design",
+            "Fundamentals of Design Principles",
+            "Typography",
+            "Color Theory",
+            "Layout Design",
+            "Image Editing",
+            "Logo Design",
+            "Branding",
+            "Print Design",
+            "Web Design",
+            "Multimedia Design"
+        ],
+        "Software": [
+            {
+               
+                "name": "Adobe Photoshop"
+            },
+            {
+                
+                "name": "Adobe Illustrator"
+            },
+            {
+               
+                "name": "Adobe InDesign"
+            }
+        ]
+    },
+    {
+        "subTitle": "Master the art of Video Editing",
+        "Price" : 10000,
+        "Title": "Video Editing",
+        "banner":"https://i.postimg.cc/ydBxLnXJ/VIDEO-EDITING.jpg",
+        "CourseDuration": "4 months",
+        "Lecture": 40,
+        "Project": 10,
+        "description": "Video Editing is a crucial skill in today's digital media landscape. Our Video Editing course will provide you with the knowledge and techniques to create compelling and professional-looking videos. Join our experienced instructors and learn about video editing software, storytelling techniques, visual effects, audio editing, and color grading to bring your video projects to life.",
+        "CourseOverview": "The Video Editing course covers a wide range of topics, including video editing software tools like Adobe Premiere Pro, Final Cut Pro, and DaVinci Resolve. You will learn about the fundamentals of video editing, including importing, organizing, and trimming footage, applying transitions and effects, enhancing audio, and exporting finished videos. By the end of the course, you will be able to edit videos for various purposes, including films, documentaries, advertisements, and online content.",
+        "CourseCurriculum": [
+            "Introduction to Video Editing",
+            "Video Editing Software",
+            "Fundamentals of Video Editing",
+            "Storytelling Techniques",
+            "Visual Effects",
+            "Audio Editing",
+            "Color Grading",
+            "Exporting and Delivery"
+        ],
+        "Software": [
+            {
+               
+                "name": "Adobe Premiere Pro"
+            },
+            {
+                
+                "name": "Final Cut Pro"
+            },
+            {
+              
+                "name": "DaVinci Resolve"
+            }
+        ]
+    },
+    {
+        "subTitle": "Master the art of Motion Graphics",
+        "Title": "Motion Graphics",
+        "Price" : 12000,
+        "banner":"https://i.postimg.cc/BQt67jDC/motion-grapic.jpg",
+        "CourseDuration": "5 months",
+        "Lecture": 40,
+        "Project": 10,
+        "description": "Motion Graphics is a dynamic and engaging form of visual communication. Our Motion Graphics course will provide you with the knowledge and skills to create captivating animations and motion graphics for various mediums. Join our experienced instructors and learn about animation principles, visual effects, typography, and industry-standard software tools to bring your designs to life with movement and impact.",
+        "CourseOverview": "The Motion Graphics course covers a wide range of topics, including the principles of animation, keyframe animation, motion tracking, visual effects, kinetic typography, and compositing. You will also gain hands-on experience using industry-standard software tools like Adobe After Effects and Cinema 4D. By the end of the course, you will be able to create dynamic and visually appealing motion graphics for videos, presentations, and other multimedia projects.",
+        "CourseCurriculum": [
+            "Introduction to Motion Graphics",
+            "Animation Principles",
+            "Keyframe Animation",
+            "Motion Tracking",
+            "Visual Effects",
+            "Kinetic Typography",
+            "Compositing",
+            "3D Motion Graphics",
+            "Project-based Learning"
+        ],
+        "Software": [
+            {
+                
+                "name": "Adobe After Effects"
+            },
+            {
+               
+                "name": "Cinema 4D"
+            }
+        ]
+    },
+    {
+        "subTitle": "Master the art of Content Marketing",
+        "Title": "Content Marketing",
+        "Price" : 8000,
+        "banner":"https://i.postimg.cc/qRkBsq4y/digital-marketing-web2.png",
+        "CourseDuration": "4 months",
+        "Lecture": 40,
+        "Project": 10,
+        "description": "Content Marketing is a powerful strategy for businesses to attract and engage their target audience. Our Content Marketing course will provide you with the knowledge and skills to create compelling and valuable content that drives results. Join our experienced instructors and learn about content strategy, storytelling, copywriting, SEO optimization, and measurement techniques to develop and execute successful content marketing campaigns.",
+        "CourseOverview": "The Content Marketing course covers a wide range of topics, including content planning, audience research, content creation, distribution strategies, SEO optimization, and performance measurement. You will learn how to develop an effective content strategy, create engaging and persuasive copy, leverage various content formats and platforms, and analyze the impact of your content marketing efforts. By the end of the course, you will be equipped to create and implement content marketing campaigns that deliver tangible business results.",
+        "CourseCurriculum": [
+            "Introduction to Content Marketing",
+            "Content Strategy",
+            "Audience Research",
+            "Storytelling Techniques",
+            "Copywriting",
+            "SEO Optimization for Content",
+            "Content Distribution",
+            "Social Media Marketing",
+            "Performance Measurement"
+        ],
+        "Software": [
+            {
+                
+                "name": "Google Analytics"
+            },
+            {
+              
+                "name": "Hootsuite"
+            },
+            {
+               
+                "name": "WordPress"
+            },
+            {
+                "name": "Canva"
+            }
+        ]
+    }
+    
+    
+    
+    
+    
+    
+]
