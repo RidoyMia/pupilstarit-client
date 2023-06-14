@@ -43,7 +43,7 @@ function Addmission() {
       postal,
     };
 
-    fetch("http://localhost:5000/student", {
+    fetch("https://pupil-server-ridoymia.vercel.app/student", {
       method: "POST",
       body: JSON.stringify(student),
       headers: {

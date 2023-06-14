@@ -7,7 +7,7 @@ function ProjectDetails() {
   const { id } = useParams();
   const [project, setProject] = useState({});
   useEffect(() => {
-    fetch(`http://localhost:5000/addproject/${id}`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/addproject/${id}`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data, "projectdetails");

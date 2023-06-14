@@ -18,6 +18,7 @@ import StudentDetails from "./components/pages/StudentDetails/StudentDetails";
 import Ami from "./components/shared/Banner/Ami";
 import StudentProject from "./components/pages/StudentProject/StudentProject";
 import ProjectDetails from "./components/pages/StudentProject/ProjectDetails";
+import About from "./components/pages/About/About";
 
 const notify = () => toast.success("Here is your toast.");
 function App() {
@@ -55,6 +56,7 @@ function App() {
           element={<ProjectDetails></ProjectDetails>}
         ></Route>
         <Route path="/addmission" element={<Addmission></Addmission>}></Route>
+        <Route path="/about" element={<About></About>}></Route>
         <Route path="/add" element={<Addproject></Addproject>}></Route>
         <Route path="/courses" element={<All></All>}></Route>
         <Route path="/login" element={<Login></Login>}></Route>

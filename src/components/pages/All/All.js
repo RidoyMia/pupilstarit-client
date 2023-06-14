@@ -7,7 +7,7 @@ function All(){
     const[all,setAll] = useState([]);
     const navigate = useNavigate()
     useEffect(()=>{
-        fetch(`http://localhost:5000/allcourse`)
+        fetch(`https://pupil-server-ridoymia.vercel.app/allcourse`)
         .then(res => res.json())
         .then(data => {
             setAll(data)

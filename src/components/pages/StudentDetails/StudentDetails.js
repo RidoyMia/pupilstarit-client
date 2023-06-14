@@ -18,7 +18,7 @@ function StudentDetails() {
     onAfterPrint: () => alert("print success"),
   });
   useEffect(() => {
-    fetch(`http://localhost:5000/student/${id}`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/student/${id}`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data?.[0]);

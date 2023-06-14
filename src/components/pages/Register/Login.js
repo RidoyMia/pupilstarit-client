@@ -37,7 +37,7 @@ function Login() {
           };
           console.log(userdata, "userdata");
 
-          fetch("http://localhost:5000/user", {
+          fetch("https://pupil-server-ridoymia.vercel.app/user", {
             method: "POST",
             body: JSON.stringify(userdata),
             headers: {

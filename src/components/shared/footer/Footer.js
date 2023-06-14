@@ -18,7 +18,7 @@ function Footer() {
                             </div>
                             <div className="d-flex align-items-center justify-content-left text-light pb-5">
                                 <BsFillTelephoneOutboundFill className="Footer-icon" />
-                                <h4 className="ps-3"> +01314799999</h4>
+                                <h4 className="ps-3"> +01707565617</h4>
 
                             </div>
                             <div className="d-flex align-items-center justify-content-left text-light pb-5">

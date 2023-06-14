@@ -27,7 +27,7 @@ function Courses() {
     };
     const [courses, setCourses] = useState([]);
     useEffect(() => {
-        fetch(`http://localhost:5000/allcourse`)
+        fetch(`https://pupil-server-ridoymia.vercel.app/allcourse`)
             .then(res => res.json())
             .then(data => {
                 setCourses(data)

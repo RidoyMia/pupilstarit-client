@@ -6,7 +6,7 @@ import Slider from "react-slick";
 function StudentProject() {
   const [courses, setCourses] = useState([]);
   useEffect(() => {
-    fetch(`http://localhost:5000/addproject`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/addproject`)
       .then((res) => res.json())
       .then((data) => {
         setCourses(data);

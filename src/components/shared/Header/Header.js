@@ -29,7 +29,7 @@ function NavScrollExample() {
   const [admin, setAdmin] = useState({});
 
   if (user) {
-    fetch(`http://localhost:5000/admin?email=${user?.email}`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/admin?email=${user?.email}`)
       .then((res) => res.json())
       .then((data) => {
         setAdmin(data[0]);

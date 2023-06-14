@@ -12,7 +12,7 @@ function Addproject() {
     formState: { errors },
   } = useForm();
   useEffect(() => {
-    fetch(`http://localhost:5000/allcourse`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/allcourse`)
       .then((res) => res.json())
       .then((data) => {
         setAll(data);
@@ -44,7 +44,7 @@ function Addproject() {
               aboutYou,
               img: dataa?.data?.url,
             };
-            fetch("http://localhost:5000/addproject", {
+            fetch("https://pupil-server-ridoymia.vercel.app/addproject", {
               method: "POST",
               body: JSON.stringify(project),
               headers: {

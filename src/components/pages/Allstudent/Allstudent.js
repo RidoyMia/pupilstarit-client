@@ -7,7 +7,7 @@ function Allstudent() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:5000/student")
+    fetch("https://pupil-server-ridoymia.vercel.app/student")
       .then((res) => res.json())
       .then((data) => {
         console.log(data);

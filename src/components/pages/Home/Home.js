@@ -4,6 +4,7 @@ import './Home.css'
 import Courses from "../../shared/courses/Courses";
 
 import Counteruse from "../../shared/Counter/Counteruse";
+import ContactForm from "../../shared/Counter/ContactForm";
 
   
   function Home (){
@@ -15,6 +16,7 @@ import Counteruse from "../../shared/Counter/Counteruse";
          <Banner></Banner>
           <Courses></Courses>
           <Counteruse></Counteruse>
+          <ContactForm></ContactForm>
         
       </div>
       

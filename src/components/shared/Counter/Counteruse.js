@@ -7,7 +7,7 @@ function Counteruse() {
   const [totalCourse, setTotalcourses] = useState(0);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/allcourse`)
+    fetch(`https://pupil-server-ridoymia.vercel.app/allcourse`)
       .then(res => res.json())
       .then(data => {
         setTotalcourses(data.length)
